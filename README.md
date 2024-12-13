@@ -17,3 +17,7 @@ Este é um jogo simples criado como desafio do bootcamp RI Happy da DIO. O objet
 - Clique no quadrado inimigo: Assim que o quadrado aparecer, clique nele o mais rápido possível.
 - Aumente sua pontuação: Cada clique acertado adiciona pontos à sua pontuação.
 - Seja rápido: O quadrado muda de lugar aleatoriamente, então seja rápido para conseguir mais pontos.
+
+## Link do jogo 
+
+[Clique aqui](https://game-detona-ralph-dio-2024-78uaimxgn-marcelos-projects-dc200305.vercel.app/) 
